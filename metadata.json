@@ -1,0 +1,7 @@
+{
+  "name": "أبو محمد للخدمات الإلكترونية - استوديو التعليق الصوتي 120 ثانية",
+  "description": "استوديو احترافي لإنتاج وتوليد التعليق الصوتي الإعلاني المتزامن (120 ثانية عبر 8 مشاهد) لإعلانات أبو محمد للخدمات الإلكترونية باستخدام نموذج gemini-3.8-flash-tts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
